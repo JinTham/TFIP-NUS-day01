@@ -1,5 +1,5 @@
 // The Package name (the class file will be created under this folder name 'day01')
-package day01;
+package day01.source;
 
 //Using the class
 import java.io.Console; 

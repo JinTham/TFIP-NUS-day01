@@ -1,4 +1,4 @@
-package day01;
+package day01.source;
 
 public class Array2D {
     public static void main(String[] args){
